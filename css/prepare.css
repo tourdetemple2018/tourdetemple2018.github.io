@@ -1,0 +1,129 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+ /* Fonts
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+*/
+
+body {
+    padding-top: 54px;
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: rgb(226, 226, 226);
+    font-size: .9rem !important;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  .card, .card-footer {
+    border: none;
+  }
+  
+  .col-lg-4 .card-footer {
+    background-color: #fff;
+  }
+  
+  .navbar {
+    background-color: #00405E !important;
+  }
+  
+  .bg-secondary {
+    background-color: #1B9AAA !important;
+  }
+  
+  .btn-primary {
+    background-color: #00405E !important;
+    border-color: #00405E !important;
+  }
+  
+  .btn-lg {
+    background-color: #00405E !important;
+    border-color: #00405E !important;
+  }
+  
+  .h1, .h2, h1, h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2rem !important;
+  }
+  
+  .py-5 {
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+    background-color: #00405E !important;
+  }
+  
+  .navbar-brand {
+    font-family: 'Roboto Slab', serif;
+    font-variant: small-caps;
+    font-size: 17px;
+  }
+  
+  .card-header {
+    display: flex; 
+    justify-content: center;
+    font-size: 1.8rem;
+    font-family: 'Roboto Slab', serif;
+    padding-bottom: 0px;
+    border-bottom: none;
+  }
+
+  .card-white {
+      background-color: #fff;
+  }
+  
+  .fas {  
+    color: #FEC901 !important;
+  }
+  
+  .card-footer { 
+    display: flex; 
+    justify-content: center;
+  }
+  
+  .navbar-number {
+    font-size: 15px;
+  }
+  
+  .text-white a {
+    color: rgba(255,255,255,.5);
+  }
+
+  .text-white a:hover {
+    color: rgba(255,255,255);
+  }
+  
+  .text-white a:visited {
+    color: rgba(255,255,255,.5);
+  }
+
+  .map {
+      padding: .5rem !important;
+  }
+
+  .about {
+      align-items: center;
+      display: flex;
+  }
+
+  .calendar {
+    border-radius: .25rem;
+    background-color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .table {
+      margin-top: 1rem;
+  }
+
+  .table td, .table th {
+      border: none;
+  }

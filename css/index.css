@@ -1,0 +1,97 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+ /* Fonts
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+*/
+
+body {
+  padding-top: 54px;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: rgb(226, 226, 226);
+  font-size: .9rem !important;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card, .card-footer {
+  border: none;
+}
+
+.col-lg-4 .card-footer {
+  background-color: #fff;
+}
+
+.navbar {
+  background-color: #4c4858 !important;
+}
+
+.bg-secondary {
+  background-color: #706677 !important;
+}
+
+.btn-primary {
+  background-color: #A6808C !important;
+  border-color: #A6808C !important;
+}
+
+.btn-lg {
+  background-color: #E2A9A1 !important;
+  border-color: #E2A9A1 !important;
+}
+
+.h1, .h2, h1, h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem !important;
+}
+
+.py-5 {
+  padding-bottom: 0rem !important;
+  padding-top: 1rem !important;
+  background-color: #4c4858 !important;
+}
+
+.navbar-brand {
+  font-family: 'Roboto Slab', serif;
+  font-variant: small-caps;
+  font-size: 17px;
+}
+
+.card-header {
+  display: flex; 
+  justify-content: center;
+  font-size: 1.8rem;
+  font-family: 'Roboto Slab', serif;
+  padding-bottom: 0px;
+  border-bottom: none;
+}
+
+.fas {  
+  color: #706677 !important;
+}
+
+.card-footer { 
+  display: flex; 
+  justify-content: center;
+}
+
+.navbar-number {
+  font-size: 15px;
+}
+
+.text-white a {
+  color: #E2A9A1;
+}
+
+.text-white a:visited {
+  color: #E2A9A1;
+}
