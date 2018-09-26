@@ -49,11 +49,20 @@ body {
     border-color: #A20021 !important;
   }
   
-  .h1, .h2, h1, h2 {
+  .h1, .h2, .h3, h1, h2, h3 {
     font-family: 'Roboto Slab', serif;
-    font-size: 2rem !important;
   }
-  
+
+  .titles {
+      font-size: 2rem !important;
+  }
+
+  .calendar-titles {
+      font-size: 1.5rem !important;
+  }
+  .display-4 {
+      font-size: 3rem !important;
+  }
   .py-5 {
     padding-bottom: 1rem !important;
     padding-top: 1rem !important;
@@ -126,4 +135,8 @@ body {
 
   .table td, .table th {
       border: none;
+  }
+
+  .table p {
+      font-weight: 400 !important;
   }
