@@ -109,7 +109,7 @@ body {
   }
 
   .about {
-      align-items: center;
+      /* align-items: center; */
       display: flex;
   }
 
