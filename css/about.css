@@ -140,3 +140,8 @@ body {
   .table p {
       font-weight: 400 !important;
   }
+
+  .theme-message p, ol {
+    justify-content: left !important;
+    text-align: left !important;
+  }

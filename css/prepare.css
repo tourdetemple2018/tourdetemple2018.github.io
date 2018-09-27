@@ -127,3 +127,18 @@ body {
   .table td, .table th {
       border: none;
   }
+
+  .safety-message ul, p {
+    justify-content: left !important;
+    text-align: left !important;
+  }
+
+  .preparation-message p {
+    justify-content: left !important;
+    text-align: left !important;
+  }
+
+  ul {
+    justify-content: left !important;
+    text-align: left !important;
+  }
